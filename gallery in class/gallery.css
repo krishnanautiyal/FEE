@@ -1,0 +1,59 @@
+.cont{
+    
+    background-color: black;
+    border: green 10px solid;
+    display: flex;
+    flex-flow: column;
+
+    padding: 20px;
+
+    margin: 20px;
+}
+
+.c1{
+    
+    background-color: aqua;
+    margin: 20px;
+    border: whitesmoke 2px solid;
+
+}
+
+.c2{
+    background-color: rgb(17, 88, 65);
+    margin: 20px;
+    border: yellow solid 2px;
+}
+
+.c3{
+    
+    background-color: aquamarine;
+}
+
+.c11{
+    
+    background-color: brown;
+}
+
+.c12{
+    
+    background-color: blue;
+}
+
+.c13{
+    
+    background-color: burlywood;
+}
+
+.c21{
+    
+    background-color: azure;
+}
+
+.c22{
+    background-color: rgb(7, 7, 68);
+}
+
+.c23{
+    background-color: rgb(47, 14, 77);
+}
+
